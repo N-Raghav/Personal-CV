@@ -1,0 +1,77 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f7f7f7; /* Light gray background color */
+    color: #333; /* Text color */
+  }
+  
+  /* Centered heading styles */
+  h1 {
+    text-align: center;
+    padding: 10px;
+    background-color: #eaeaea; /* Light gray background for heading */
+    border-bottom: 2px solid #d22f2f; /* Dark red border bottom */
+  }
+  
+  /* Centered link styles */
+  p {
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  /* Links styles */
+  a {
+    color: #1a5fd3; /* Blue link color */
+    text-decoration: none;
+    margin: 5px;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Horizontal rule styles */
+  hr {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+  }
+  
+  /* Summary section styles */
+  h3 {
+    color: #d22f2f; /* Dark red heading color */
+  }
+  
+  /* Education section styles */
+  ol.education-list {
+    list-style-type: decimal;
+    margin-left: 40px;
+    margin-bottom: 20px;
+  }
+  
+  ol.education-list li {
+    margin-bottom: 10px;
+  }
+  
+  i {
+    font-style: italic;
+  }
+  
+  /* Projects section styles */
+  ul.projects-list {
+    list-style-type: disc;
+    margin-left: 40px;
+    margin-bottom: 20px;
+  }
+  
+  ul.projects-list li {
+    margin-bottom: 10px;
+  }
+  
+  /* Add a background color to the header for better readability */
+  h1, h3 {
+    background-color: #f2f2f2; /* Light gray background for headings */
+    border-radius: 5px; /* Rounded corners for headings */
+  }
+  
